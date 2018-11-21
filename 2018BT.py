@@ -470,7 +470,7 @@ if __name__ == "__main__":
     display_process.start()
 
 #mainlagopus-system
-#to play sound on raspberry pi, 'aply /sound file directparth'
+#to play sound on raspberry pi, 'aplay /sound file directparth'
     while(True):
         rvocount += 1 #counter val for random voice play
         count += 1 #counter val for sensor communication(SPI, I2C)
